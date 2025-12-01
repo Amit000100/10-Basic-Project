@@ -1,2 +1,2 @@
 # 10-Basic-Project
- html, CSS and JavaScript for Foundation
+ <h1>HTML, CSS and JavaScript for Foundation</h1>
